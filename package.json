@@ -9,7 +9,7 @@
     "test:prettier": "prettier-check  --single-quote --jsx-bracket-same-line --trailing-comma all --print-width 100 `find lib -name \"*.js\"`"
     },
   "dependencies": {
-    "react-native-markdown-view": "^1.0.0"
+    "react-native-markdown-package": "^1.8.1"
   },
   "peerDependencies": {
     "react": "16.0.0-alpha.12",
